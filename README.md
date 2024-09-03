@@ -6,7 +6,7 @@
 Чтобы развернуть проект, клонируем этот репозиторий к себе на компьютер, в директорию `shop`
 
 ```
-git clone git@github.com:tokmakov/javascript-shop.git shop
+git clone https://github.com/quadro-network/shop_and_server.git
 ```
 
 Создаем базу данных с помощью утилиты `psql`
